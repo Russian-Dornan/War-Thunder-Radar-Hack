@@ -10,6 +10,7 @@ How to use:
 2. Disable EAC/Anticheat.
 3. Launch game.
 4. Launch hack.
+   
 If your teamates marked as enemy, restart cheat.
 
 ***
@@ -21,4 +22,5 @@ If your teamates marked as enemy, restart cheat.
 2. Вырубить античит.
 3. Запустить игру.
 4. Запустить чит.
+
 Если ваш союзник помечен как врага, перезапустите игру.
