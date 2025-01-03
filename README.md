@@ -1,6 +1,9 @@
 # War-Thunder-Radar-Hack
 JUST FOR LEARNING PURPOSE, DO NOT USE MY CHEAT IN GAME - ДЛЯ ОБРАЗОВАТЕЛЬНЫХ ЦЕЛЕЙ, НЕ ИСПОЛЬЗУЙТЕ МОЙ ЧИТ В ИГРЕ
 
+I AM NOT RESPONSIBLE FOR YOUR COMPUTER OR YOUR GAME ACCAUNT - Я НЕ НЕСУ ОТВЕТСВЕННОСТЬ ЗА ВАШ КОМПЬЮТЕР ИЛИ ВАШ ИГРОВОЙ АККАУНТ 
+AT YOUR PEIL - НА ВАШ СТРАХ И РИСК
+
 I SUPPORT CHET UNTIL 9 JANUARY  - ПОДДЕРЖКА ЧИТА ОКАЗЫВАЕТСЯ ДО 9 ЯНВАРЯ
 
 Just a radarhack.
